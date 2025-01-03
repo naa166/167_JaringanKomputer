@@ -20,8 +20,12 @@
 }
 
 .menu {
-    margin-left: 1000px;
-    padding-top: 27px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-family: verdana, sans-serif;
+    margin-top: 27px;
+    
 }
 
 
